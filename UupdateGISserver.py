@@ -59,7 +59,7 @@ import arcpy
 try:
     #username = input("Enter your ArcGIS Online username:")
     #password = getpass.getpass("Enter your ArcGIS online password:")
-    arcpy.SignInToPortal("https://www.arcgis.com","DUSS_Admin","L6UerJi3lWQdYSVLcMxI")
+    arcpy.SignInToPortal("https://www.arcgis.com","DUSS_Admin","#")
     #arcpy.SignInToPortal("https://www.arcgis.com/",username,password)
     print("Signed in successfully with Named User credentials License.")
 except Exception as e:
