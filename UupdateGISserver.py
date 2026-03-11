@@ -66,7 +66,7 @@ except Exception as e:
     print(f"Sign-in failed, please try again!: {e}")
     sys.exit(1)
     
-#Verify license level (e.g., 'arcview for Basic licensing)
+#Verify license level (e.g., 'arcview for Basic licensing)L6UerJi3lWQdYSVLcMxI
 #result = arcpy.CheckProduct('ArcView')
 #result = arcpy.CheckProduct('ArcInfo') #No argument ; returns the 'arcview','arcinfo',etc
 #if result:
