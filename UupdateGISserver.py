@@ -5,9 +5,7 @@ import sys
 """
 The UpdateCgnToponumes python program has the responsability to dowmload
 and process the CGNDB shapefile (english/French) from the NRCan Canadian Geographical Names Open Data http web site
-and update correponding feature classes in the INAC Geomatics Services database.
-if __name__=="__main__":
-Written by Eric Lussier, AANDC-AADNC - 2017-2018
+
 Updated by Jason Ma Commons -2024-2025 for migration Python 3 and ARC GIS PRO syntax
 """
 
